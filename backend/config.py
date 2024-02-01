@@ -1,0 +1,2 @@
+# config.py
+config_array = [1, 0, 0, 1, 0, 1, 0, 0, 0]
